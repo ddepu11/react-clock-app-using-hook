@@ -11,6 +11,7 @@ const Clock = () => {
 
   return (
     <div className="clock">
+      <h3>A clock app using useState Hook </h3>
       <span>{currentTime}</span>
     </div>
   );
