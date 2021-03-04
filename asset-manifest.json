@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-clock-app-using-hook/static/css/main.45c17417.chunk.css",
+    "main.js": "/react-clock-app-using-hook/static/js/main.553d0c9b.chunk.js",
+    "main.js.map": "/react-clock-app-using-hook/static/js/main.553d0c9b.chunk.js.map",
+    "runtime-main.js": "/react-clock-app-using-hook/static/js/runtime-main.6fdbc7a5.js",
+    "runtime-main.js.map": "/react-clock-app-using-hook/static/js/runtime-main.6fdbc7a5.js.map",
+    "static/js/2.718dbde9.chunk.js": "/react-clock-app-using-hook/static/js/2.718dbde9.chunk.js",
+    "static/js/2.718dbde9.chunk.js.map": "/react-clock-app-using-hook/static/js/2.718dbde9.chunk.js.map",
+    "index.html": "/react-clock-app-using-hook/index.html",
+    "static/css/main.45c17417.chunk.css.map": "/react-clock-app-using-hook/static/css/main.45c17417.chunk.css.map",
+    "static/js/2.718dbde9.chunk.js.LICENSE.txt": "/react-clock-app-using-hook/static/js/2.718dbde9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-clock-app-using-hook/static/media/bg.5bc1db65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fdbc7a5.js",
+    "static/js/2.718dbde9.chunk.js",
+    "static/css/main.45c17417.chunk.css",
+    "static/js/main.553d0c9b.chunk.js"
+  ]
+}
