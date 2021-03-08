@@ -15,6 +15,7 @@ const Clock = () => {
       <span>{currentTime}</span>
     </div>
   );
+  
 };
 
 export default Clock;
